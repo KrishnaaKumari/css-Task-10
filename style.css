@@ -1,0 +1,10 @@
+body{
+    
+    border: 2px solid black;
+    padding: 20px 20px 20px 20px;
+    height: 90px;
+    width: 300px;
+}
+p{
+    background-color: yellow;
+}
